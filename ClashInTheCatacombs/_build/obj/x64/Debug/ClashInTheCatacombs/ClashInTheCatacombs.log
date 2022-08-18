@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\theAw\Desktop\raylib gamedev\TopDownGame\main.cpp(54,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ClashInTheCatacombs.vcxproj -> C:\Users\theAw\Desktop\ClashInTheCatacombs\_bin\Debug\ClashInTheCatacombs.exe
